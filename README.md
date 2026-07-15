@@ -25,4 +25,4 @@ I regularly give talks at meetups, conferences, and educational formats, and I e
 - Video playlist: [YouTube](https://www.youtube.com/playlist?list=PL1CiawkXA01PO_39DnKSrxWw99mU7mwWs)
 - Mentoring: [Codementor](https://www.codementor.io/@roschaefer)
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=roschaefer)](https://github.com/roschaefer/github-readme-stats)
+[![Robert's GitHub stats](https://github-stats-extended.vercel.app/api?username=roschaefer)](https://github.com/stats-organization/github-stats-extended)
