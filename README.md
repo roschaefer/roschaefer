@@ -14,7 +14,7 @@ Personal website: [roschaefer.de](https://roschaefer.de/)
 
 ## Open Source and Civic Work
 
-- [git-subtrees](https://github.com/roschaefer/git-subtrees): Git extension that keeps multiple git subtrees in a monorepo in sync with their own repositories. No config file needed: every remote named after a folder path is a subtree, and the documentation consists of tested example scenarios.
+- [git-splice](https://github.com/roschaefer/git-splice): Git extension for contributing to other repositories from one monorepo: edit them as folders, test them together, and sync both ways with plain Git. The monorepo and the spliced repositories share no commits, so everyone else keeps working in each repository as before, and the documentation consists of tested example scenarios.
 - [hledger-document-check](https://github.com/roschaefer/hledger-document-check): Plain Text Accounting CLI for hledger that reconciles transactions requiring documentation with files on disk, detects missing or unbooked documents, checks amount plausibility, and generates an enriched journal for Fava's document view.
 - [hledger-elster](https://github.com/roschaefer/hledger-elster): Plain Text Accounting CLI for hledger that automates German tax filing, generating traceable CSV and XLSX exports for the corresponding ELSTER.de forms, including derivations tax authorities can audit.
 - [roschaefer.de](https://github.com/roschaefer/roschaefer.de): My bilingual portfolio and resume site, built from a shared content source for the web, printable PDFs via Typst, and standards-compliant `resume.json`.
